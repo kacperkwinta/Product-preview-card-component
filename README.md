@@ -1,4 +1,4 @@
-# Frontend Mentor - (Project title here)
+# Frontend Mentor - (Product preview card component)
 
 ![Image of the project](./design/desktop-design.jpg)
 
@@ -8,7 +8,7 @@
 *You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.*
 *Your users should be able to:*
 
--*View the optimal layout depending on their device's screen size*
+-*View the optimal layout depending on their device's screen size* <br>
 -*See hover and focus states for interactive elements*
 
 ### Built with 🧱
