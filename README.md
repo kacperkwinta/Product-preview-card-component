@@ -1,4 +1,4 @@
-# Frontend Mentor - (Product preview card component)
+# Frontend Mentor - Product preview card component
 
 ![Image of the project](./design/desktop-design.jpg)
 
@@ -14,7 +14,7 @@
 ### Built with 🧱
 - Semantic HTML5 markup
 - Sass
-- BEM
+- <picture> tag 
 - Flexbox
 
 ### Links 🌐
