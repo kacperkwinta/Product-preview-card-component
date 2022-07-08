@@ -14,7 +14,7 @@
 ### Built with 🧱
 - Semantic HTML5 markup
 - Sass
-- <picture> tag 
+- `<picture>` tag 
 - Flexbox
 
 ### Links 🌐
